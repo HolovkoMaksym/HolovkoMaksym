@@ -32,7 +32,7 @@ I'm a passionate web developer with a strong foundation in TypeScript, React, an
             <a href="https://vuejs.org/" title="Vue" target="_blank"><img src="icons/vue.png" width="40" alt="Vue" /></a>
             <a href="https://html.com/" title="HTML" target="_blank"><img src="icons/html.png" width="40" alt="HTML" /></a>
             <a href="https://css.in.ua/" title="CSS" target="_blank"><img src="icons/css.png" width="40" alt="CSS" /></a>
-            <a href="https://sass-lang.com/" title="SASS" target="_blank"><img src="icons/sass.png" width="40" alt="SASS" /></a>
+            <!-- <a href="https://sass-lang.com/" title="SASS" target="_blank"><img src="icons/sass.png" width="40" alt="SASS" /></a> -->
           </td>
         </tr>
         <tr>
@@ -41,7 +41,7 @@ I'm a passionate web developer with a strong foundation in TypeScript, React, an
             <a href="https://nodejs.org/en" title="Node.js" target="_blank"><img src="icons/node.png" width="40" alt="Node.js" /></a>
             <a href="https://nestjs.com/" title="NestJS" target="_blank"><img src="icons/nestJS.png" width="40" alt="NestJS" /></a>
             <a href="https://expressjs.com/ru/" title="Express" target="_blank"><img src="icons/express.png" width="40" alt="Express" /></a>
-            <a href="https://graphql.org/" title="GraphQL" target="_blank"><img src="icons/GraphQL.png" width="40" alt="GraphQL" /></a>
+            <!-- <a href="https://graphql.org/" title="GraphQL" target="_blank"><img src="icons/GraphQL.png" width="40" alt="GraphQL" /></a> -->
             <a href="https://www.mysql.com/" title="MySQL" target="_blank"><img src="icons/sql.png" width="40" alt="MySQL" /></a>
             <a href="https://www.postgresql.org/" title="PostgreSQL" target="_blank"><img src="icons/postgresql.png" width="40" alt="PostgreSQL" /></a>
             <a href="https://www.mysql.com/" title="MySQL" target="_blank"><img src="icons/mySQL.png" width="40" alt="MySQL" /></a>
@@ -64,7 +64,7 @@ I'm a passionate web developer with a strong foundation in TypeScript, React, an
           <td>Other</td>
           <td>
             <a href="https://redux.js.org/" title="Redux" target="_blank"><img src="icons/redux.png" width="40" alt="Redux" /></a>
-            <a href="https://zustand-demo.pmnd.rs/" title="Zustand" target="_blank"><img src="icons/zustand.png" width="40" alt="Zustand" /></a>
+            <!-- <a href="https://zustand-demo.pmnd.rs/" title="Zustand" target="_blank"><img src="icons/zustand.png" width="40" alt="Zustand" /></a> -->
             <a href="https://vitejs.dev/" title="Vite" target="_blank"><img src="icons/vite.png" width="40" alt="Vite" /></a>
             <a href="https://tailwindcss.com/" title="tailwindcss" target="_blank"><img src="icons/tailwind.png" width="40" alt="tailwindcss" /></a>
           <a href="https://www.notion.com/" title="notion" target="_blank"><img src="icons/notion.png" width="30" alt="notion" /></a>
