@@ -1,8 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=230&text=✌️Hi%20there,%20I'm%20Maksym!&section=header&color=0:1a1a2e,100:9c9cfc&reversal=false&textBg=false&fontColor=white&fontAlign=48&fontAlignY=51&descAlign=52&descAlignY=80&fontSize=60)
 
-## About me 😊
+## 👨‍💻 About Me & Experience
 
-I'm a passionate web developer with a strong foundation in TypeScript, React, and Node.js. I am particularly interested in participating in team projects and learning the latest technologies in web development.
+- 🚀 **Commercial & Team Experience:** Hands-on experience building production web applications using **TypeScript, React, Next.js, and Node.js**. Collaborated in agile teams to deliver end-to-end features—from responsive UI implementation to RESTful APIs and database design.
+- 🧩 **Engineering Mindset:** Focused on writing maintainable, type-safe code, optimizing application performance, and bridging the gap between frontend UX and reliable backend architecture.
+- 🔭 **Current Focus:** Deepening expertise in distributed systems, microservices with **NestJS**, containerization, and high-load relational databases.
 
 <div style="margin-bottom: 20px">
   <div align="center">
@@ -32,7 +34,6 @@ I'm a passionate web developer with a strong foundation in TypeScript, React, an
             <a href="https://vuejs.org/" title="Vue" target="_blank"><img src="icons/vue.png" width="40" alt="Vue" /></a>
             <a href="https://html.com/" title="HTML" target="_blank"><img src="icons/html.png" width="40" alt="HTML" /></a>
             <a href="https://css.in.ua/" title="CSS" target="_blank"><img src="icons/css.png" width="40" alt="CSS" /></a>
-            <!-- <a href="https://sass-lang.com/" title="SASS" target="_blank"><img src="icons/sass.png" width="40" alt="SASS" /></a> -->
           </td>
         </tr>
         <tr>
@@ -41,7 +42,6 @@ I'm a passionate web developer with a strong foundation in TypeScript, React, an
             <a href="https://nodejs.org/en" title="Node.js" target="_blank"><img src="icons/node.png" width="40" alt="Node.js" /></a>
             <a href="https://nestjs.com/" title="NestJS" target="_blank"><img src="icons/nestJS.png" width="40" alt="NestJS" /></a>
             <a href="https://expressjs.com/ru/" title="Express" target="_blank"><img src="icons/express.png" width="40" alt="Express" /></a>
-            <!-- <a href="https://graphql.org/" title="GraphQL" target="_blank"><img src="icons/GraphQL.png" width="40" alt="GraphQL" /></a> -->
             <a href="https://www.mysql.com/" title="MySQL" target="_blank"><img src="icons/sql.png" width="40" alt="MySQL" /></a>
             <a href="https://www.postgresql.org/" title="PostgreSQL" target="_blank"><img src="icons/postgresql.png" width="40" alt="PostgreSQL" /></a>
             <a href="https://www.mysql.com/" title="MySQL" target="_blank"><img src="icons/mySQL.png" width="40" alt="MySQL" /></a>
@@ -64,7 +64,6 @@ I'm a passionate web developer with a strong foundation in TypeScript, React, an
           <td>Other</td>
           <td>
             <a href="https://redux.js.org/" title="Redux" target="_blank"><img src="icons/redux.png" width="40" alt="Redux" /></a>
-            <!-- <a href="https://zustand-demo.pmnd.rs/" title="Zustand" target="_blank"><img src="icons/zustand.png" width="40" alt="Zustand" /></a> -->
             <a href="https://vitejs.dev/" title="Vite" target="_blank"><img src="icons/vite.png" width="40" alt="Vite" /></a>
             <a href="https://tailwindcss.com/" title="tailwindcss" target="_blank"><img src="icons/tailwind.png" width="40" alt="tailwindcss" /></a>
           <a href="https://www.notion.com/" title="notion" target="_blank"><img src="icons/notion.png" width="30" alt="notion" /></a>
@@ -88,21 +87,14 @@ I'm a passionate web developer with a strong foundation in TypeScript, React, an
   </div>
 </div>
 
-<h2>Experience</h2>
+## 📊 GitHub Analytics
 
-🚀 I have hands-on experience working on commercial projects where I used my knowledge of TypeScript and React to bring website designs to life. There are also team and pet projects, which you can check out below.
-
-👨‍💻 During my studies, I actively participated in team projects, using the aforementioned technologies to implement front-end and back-end solutions. This experience not only strengthened my technical abilities but also taught me the importance of effective communication, teamwork, and agile methodologies.
-
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; margin-bottom: 20px">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=MaxsimJSDeveloper&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaxsimJSDeveloper&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="GitHub Streak" height="170"/>
-  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=MaxsimJSDeveloper&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&cache_seconds=1800" alt="Top Langs" height="170"/>
+<div align="center">
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=HolovkoMaksym&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HolovkoMaksym&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="GitHub Streak" height="165"/>
+  <br/>
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=HolovkoMaksym&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&cache_seconds=1800" alt="Top Langs" height="165"/>
 </div>
-
-<h2 style="margin-bottom: 0;">Career Goals</h2>
-
-🎯 My ultimate goal is to succeed in full-stack development while constantly pushing the boundaries of what's possible on the web. I thrive in an environment where I can take on new challenges, learn from my colleagues, and use my skills on projects. At the moment, I want to learn the Next.js and Nest frameworks, as well as relational databases.
 
 <em>I love connecting with different people, so I'll be happy to meet you!</em> 😊
 
